@@ -1,4 +1,5 @@
 # Automated YouTube Playlist to Anki Flashcards (via AI) 🤖📚
+## _by Simon Herbst_
 
 Do you love learning from YouTube videos but struggle to remember the key information afterward? Do you want to move beyond surface-level watching and truly **ingrain** the knowledge, but find the idea of manually creating flashcards for every video tedious? This project is the solution! Simply create a dedicated playlist on YouTube (e.g., "Flashcard Worthy") and add any video you want to learn deeply. This script will automatically detect new additions, download the audio, use AI to create relevant flashcards, and add them directly to your Anki collection. When combined with Anki's built-in sync (or add-ons like Anki Sync Media for older setups), your new flashcards appear seamlessly on your Anki mobile app, ready for review!
 
