@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Generated data, state, logs, and cards
+Generated/
+*.log
+
+# Python virtual environment
+venv/
+*/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Optional: If your system prompt is sensitive
+# system_prompt.txt
+
+# Operating System specific files
+.DS_Store
+Thumbs.db

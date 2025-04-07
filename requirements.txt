@@ -1,0 +1,24 @@
+﻿# Google API clients
+google-api-python-client==2.120.0
+google-auth==2.28.0
+google-auth-httplib2==0.2.0
+google-api-core==2.18.0
+google-genai
+
+# Google Generative AI SDK (assuming you're using it)
+google-generativeai==0.3.2
+
+# Replicate (AI model API)
+replicate==0.24.0
+
+# YouTube Downloader
+yt-dlp==2024.03.10
+
+# Dotenv support
+python-dotenv==1.0.1
+
+# Logging - stdlib, no need to include
+# JSON, sys, os, re, base64, tempfile, time – also stdlib
+
+# If you're using a Python version older than 3.10 and `types` isn't available:
+types-requests==2.31.0.20240106
